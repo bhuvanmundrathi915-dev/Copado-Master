@@ -12,4 +12,8 @@ public class DemoClass {
     private void printMethod(){
         system.debug('how are you');
     }
+    private void printMethod1(){
+        system.debug('how are you');
+    }
+
 }
