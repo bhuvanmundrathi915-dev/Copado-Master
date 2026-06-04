@@ -2,7 +2,7 @@ public class DemoClass {
     
     public DemoClass(){
         
-        system.debug('Hi MMAA');
+        system.debug('Hi Bhuvan');
         printMethod();
         
     }
