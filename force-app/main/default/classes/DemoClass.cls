@@ -10,4 +10,7 @@ public class DemoClass {
     private void printMethod(){
         system.debug('Hi MR');
     }
+    private void printMethod2(){
+    }
+
 }
