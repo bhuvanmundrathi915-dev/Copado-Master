@@ -2,7 +2,9 @@ public class DemoClass {
     
     public DemoClass(){
         
-        system.debug('Hi MAA');
+        //these must be here now
+        system.debug('Hi MAA'); 
+
         printMethod();
         
     }
