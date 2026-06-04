@@ -2,14 +2,12 @@ public class DemoClass {
     
     public DemoClass(){
         
-        //these must be here now
-        system.debug('Hi MAA'); 
-
+        system.debug('Hi Bhuvan');
         printMethod();
         
     }
     
     private void printMethod(){
-        system.debug('how are you');
+        system.debug('Hi MR');
     }
 }
