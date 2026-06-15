@@ -7,7 +7,7 @@ public class DemoClass {
         
     }
     
-    private void printMethod(String name){
+    private void printMethod(){
         system.debug('Hi MR');
     }
         private void printMethod3(){
