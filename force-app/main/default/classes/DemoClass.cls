@@ -2,19 +2,18 @@ public class DemoClass {
     
     public DemoClass(){
         
-        system.debug('Hi Bhuvan3333');
-        String name ='Ram'; //fjjfjfj
-        Integer valu =29;
+        system.debug('Hi Bhuvan ho 45666');// print this as well
+        printMethod(); // print value
+        String women_name ='seetha and geetha as well';
         
     }
     
-    public void printMethod(){
-        //system.debug('Hi MR 555');
-        //hello
+    private void printMethod(){
+       // system.debug('Hi MR');
+       // my name is here
     }
-        public void printMethod3(){
-        system.debug('Hi MR 3455');
-            //hello
+        private void printMethod3(){
+        system.debug('Hi MR');
     }
 
 }
