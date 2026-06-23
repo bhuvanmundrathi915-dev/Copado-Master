@@ -2,16 +2,17 @@ public class DemoClass {
     
     public DemoClass(){
         
-        system.debug('Hi Bhuvan how are you doing man');
-        printMethod(); // print value
-        String name ='Ram';
+        system.debug('Hi Bhuvan3333');
+        String name ='Ram'; //fjjfjfj
+        Integer valu =29;
         
     }
     
-    private void printMethod(){
-        system.debug('Hi MR');
+    public void printMethod(){
+        //system.debug('Hi MR 555');
+        //hello
     }
-        private void printMethod3(){
+        public void printMethod3(){
         system.debug('Hi MR 3455');
             //hello
     }
