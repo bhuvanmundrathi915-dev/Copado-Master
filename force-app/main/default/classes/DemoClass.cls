@@ -2,16 +2,20 @@ public class DemoClass {
     
     public DemoClass(){
         
-        system.debug('Hi MMAA');
-        printMethod('baby');
+        system.debug('Hi rEMO'); // TEST
+        String name ='Ram 444'; //666
+        Integer testre =10000;
+        //DOBULE THI VALUE
         
     }
     
-    private void printMethod(){
-        system.debug('Hi MR');
+    public void printMethod(){
+        //system.debug('Hi MR 555');
+        //hello
     }
-        private void printMethod3(){
-        system.debug('Hi MR');
+        public void printMethod3(){
+        system.debug('Hi MR 3455');
+            //hello
     }
 
 }
