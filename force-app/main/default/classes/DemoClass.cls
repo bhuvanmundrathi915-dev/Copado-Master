@@ -2,16 +2,18 @@ public class DemoClass {
     
     public DemoClass(){
         
-        //love to do apex code
-        system.debug('Hi Bhuvan');
+        system.debug('Hi Bhuvan how are you doing man');
+        printMethod(); // print value
+        String name ='Ram';
         
     }
     
-    private void printMethod(String name){
+    private void printMethod(){
         system.debug('Hi MR');
     }
         private void printMethod3(){
-        system.debug('Hi MR');
+        system.debug('Hi MR 3455');
+            //hello
     }
 
 }
