@@ -2,9 +2,10 @@ public class DemoClass {
     
     public DemoClass(){
         
-        system.debug('Hi Bhuvan3333');
-        String name ='Ram'; //fjjfjfj
-        Integer valu =29;
+        system.debug('Hi rEMO'); // TEST
+        String name ='Ram 444'; //666
+        Integer testre =10000;
+        //DOBULE THI VALUE
         
     }
     
