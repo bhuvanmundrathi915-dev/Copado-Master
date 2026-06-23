@@ -2,18 +2,18 @@ public class DemoClass {
     
     public DemoClass(){
         
-        system.debug('Hi Bhuvan how are you doing man');
+        system.debug('Hi Bhuvan ho');// print this as well
         printMethod(); // print value
-        String name ='Ram';
+        String women_name ='seetha';
         
     }
     
     private void printMethod(){
-        system.debug('Hi MR');
+       // system.debug('Hi MR');
+       // my name is here
     }
         private void printMethod3(){
-        system.debug('Hi MR 3455');
-            //hello
+        system.debug('Hi MR');
     }
 
 }
