@@ -2,18 +2,20 @@ public class DemoClass {
     
     public DemoClass(){
         
-        system.debug('Hi Bhuvan ho 45666');// print this as well
-        printMethod(); // print value
-        String women_name ='seetha and geetha as well';
+        system.debug('Hi rEMO'); // TEST
+        String name ='Ram 444'; //666
+        Integer testre =10000;
+        //DOBULE THI VALUE
         
     }
     
-    private void printMethod(){
-       // system.debug('Hi MR');
-       // my name is here
+    public void printMethod(){
+        //system.debug('Hi MR 555');
+        //hello
     }
-        private void printMethod3(){
-        system.debug('Hi MR');
+        public void printMethod3(){
+        system.debug('Hi MR 3455');
+            //hello
     }
 
 }
