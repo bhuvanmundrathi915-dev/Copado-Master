@@ -2,9 +2,9 @@ public class DemoClass {
     
     public DemoClass(){
         
-        system.debug('Hi Bhuvan ho');// print this as well
+        system.debug('Hi Bhuvan ho 45666');// print this as well
         printMethod(); // print value
-        String women_name ='seetha';
+        String women_name ='seetha and geetha as well';
         
     }
     
