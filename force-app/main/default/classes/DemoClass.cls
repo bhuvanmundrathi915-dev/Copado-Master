@@ -2,9 +2,10 @@ public class DemoClass {
     
     public DemoClass(){
         
-        system.debug('Hi Bhuvan ho 45666');// print this as well
-        printMethod(); // print value
-        String women_name ='seetha and geetha as well';
+        system.debug('Hi Bhuvan glad to see you here');// print this as well
+        printMethod(); // print value for 1000 times
+        String women_name66 ='seetha and geetha as well';
+        String men ='100';
         
     }
     
@@ -14,6 +15,7 @@ public class DemoClass {
     }
         private void printMethod3(){
         system.debug('Hi MR');
+        //my print    
     }
 
 }
