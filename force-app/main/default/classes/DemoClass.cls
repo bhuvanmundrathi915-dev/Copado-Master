@@ -2,20 +2,20 @@ public class DemoClass {
     
     public DemoClass(){
         
-        system.debug('Hi rEMO'); // TEST
-        String name ='Ram 444'; //666
-        Integer testre =10000;
-        //DOBULE THI VALUE
+        system.debug('Hi Bhuvan glad to see you here');// print this as well
+        printMethod(); // print value for 1000 times
+        String women_name66 ='seetha and geetha as well';
+        String men ='100';
         
     }
     
-    public void printMethod(){
-        //system.debug('Hi MR 555');
-        //hello
+    private void printMethod(){
+       // system.debug('Hi MR');
+       // my name is here
     }
-        public void printMethod3(){
-        system.debug('Hi MR 3455');
-            //hello
+        private void printMethod3(){
+        system.debug('Hi MR');
+        //my print    
     }
 
 }
