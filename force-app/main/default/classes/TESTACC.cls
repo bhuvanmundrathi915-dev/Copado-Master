@@ -1,6 +1,6 @@
 public class TESTACC {
 
     TESTACC(){
-        system.debug('Please');
+        system.debug('Happy');
     }
 }
