@@ -1,6 +1,6 @@
 public class TESTACC {
 
     TESTACC(){
-        system.debug('Ramu');
+        system.debug('DEV2');
     }
 }
